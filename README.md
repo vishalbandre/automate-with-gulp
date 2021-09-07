@@ -22,7 +22,7 @@ gulp.task('sass', async function() {
 npm install --save-dev gulp-imagemin@5.0.3
 
 // References
-https://www.freecodecamp.org/news/how-to-minify-images-with-gulp-gulp-imagemin-and-boost-your-sites-performance-6c226046e08e/
+[FreeCodeCamp](https://www.freecodecamp.org/news/how-to-minify-images-with-gulp-gulp-imagemin-and-boost-your-sites-performance-6c226046e08e/)
 
 ### Tested on:
 Ubuntu 20.04
