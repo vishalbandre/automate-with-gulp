@@ -3,14 +3,13 @@
 ### Install prerequisites
 <pre>
 sudo npm install gulp -g
-
 npm install gulp --save-dev
 npm install sass gulp-sass --save-dev
 npm install --save-dev gulp-imagemin@5.0.3
 npm install --save-dev gulp-autoprefixer
 </pre>
 
-### Sample Code
+### Sample code
 <pre>
 var gulp = require('gulp');
 var sass = require('gulp-sass')(require('sass'));
@@ -26,7 +25,7 @@ gulp.task('sass', async function() {
 <a href="https://www.freecodecamp.org/news/how-to-minify-images-with-gulp-gulp-imagemin-and-boost-your-sites-performance-6c226046e08e/">FreeCodeCamp</a>
 </pre>
 
-# Tested on:
+# System configuration:
 <pre>
 Ubuntu 20.04
 Node v10.24.1
