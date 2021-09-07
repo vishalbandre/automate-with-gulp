@@ -1,0 +1,5 @@
+app/images/*
+!app/images/.gitkeep
+app/minified/images/*
+!app/minified/images/.gitkeep
+node_modules

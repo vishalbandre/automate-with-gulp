@@ -1,6 +1,7 @@
 # Automate With Gulp
 
-// sudo npm install gulp -g
+<pre>
+sudo npm install gulp -g
 
 npm init
 npm install gulp --save-dev
@@ -20,11 +21,6 @@ gulp.task('sass', async function() {
 // If getting imagemin import issue, use older version
 npm install --save-dev gulp-imagemin@5.0.3
 
-// Upgrade node to 12
-sudo apt-get purge --auto-remove nodejs
-curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
-sudo apt-get install nodejs
-
 // References
 https://www.freecodecamp.org/news/how-to-minify-images-with-gulp-gulp-imagemin-and-boost-your-sites-performance-6c226046e08e/
 
@@ -32,3 +28,4 @@ https://www.freecodecamp.org/news/how-to-minify-images-with-gulp-gulp-imagemin-a
 Ubuntu 20.04
 Node v10.24.1
 npm 7.22.0
+</pre>
