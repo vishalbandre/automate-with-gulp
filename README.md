@@ -21,8 +21,8 @@ gulp.task('sass', async function() {
 // If getting imagemin import issue, use older version
 npm install --save-dev gulp-imagemin@5.0.3
 
-// References
-[FreeCodeCamp](https://www.freecodecamp.org/news/how-to-minify-images-with-gulp-gulp-imagemin-and-boost-your-sites-performance-6c226046e08e/)
+### References
+<a href="https://www.freecodecamp.org/news/how-to-minify-images-with-gulp-gulp-imagemin-and-boost-your-sites-performance-6c226046e08e/">FreeCodeCamp</a>
 
 ### Tested on:
 Ubuntu 20.04
