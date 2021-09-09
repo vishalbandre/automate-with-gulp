@@ -7,6 +7,7 @@
 
 ## Gulp prerequisites:
 <pre>
+// Install Gulp command line utility:
 npm install gulp --save-dev
 </pre>
 
