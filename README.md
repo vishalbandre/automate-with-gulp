@@ -94,7 +94,7 @@ gulp.task("default", gulp.series("img_task", "sass_task", "prefix_task", "watch"
 - <a href="https://stackoverflow.com/questions/37651084/gulp-watch-no-gulpfile-found">Troubleshooting (If gulpfile is missing)</a>
 </pre>
 
-# What next?
+# What's next?
 <pre>
 - If you have any suggestions and improvements please let us know.
 - If you've something to contribute to this project, like, you can add more tasks, or ideas - you might be working on, etc. Just raise a PR.
