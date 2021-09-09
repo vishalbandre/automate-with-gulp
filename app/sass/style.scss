@@ -2,6 +2,7 @@ $color-primary: crimson;
 body {
     .splash {
         display: flex;
+        font-weight: 200;
         visibility: visible;
         color: $color-primary;
         font-size: 3rem;

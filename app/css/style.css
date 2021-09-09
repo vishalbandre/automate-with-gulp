@@ -1,23 +1,27 @@
 body .splash {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: flex;
-  visibility: visible;
-  color: crimson;
-  font-size: 3rem;
-  background-color: crimson;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    visibility: visible;
+    color: crimson;
+    font-size: 3rem;
+    background-color: crimson;
 }
+
 body h3 {
-  font-family: "Open Sans";
+    font-family: "Open Sans";
 }
+
 body h4 {
-  font-weight: 400;
+    font-weight: 400;
 }
+
 body h5 {
-  font-size: 2em;
+    font-size: 2em;
 }
+
 body h6 {
-  font-size: 1em;
+    font-size: 1em;
 }
