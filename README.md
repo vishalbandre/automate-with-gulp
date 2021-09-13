@@ -8,7 +8,10 @@
 ## Gulp prerequisites:
 <pre>
 // Install Gulp command line utility:
-npm install gulp --save-dev
+npm install --global gulp-cli
+
+// Install Gulp as per your flow (Globally or locally)
+npm install --save-dev gulp
 </pre>
 
 ## Install required packages according to your needs
